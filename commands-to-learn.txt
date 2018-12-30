@@ -6,7 +6,7 @@ x   init       Create an empty Git repository or reinitialize an existing one
 
 work on the current change (see also: git help everyday)
 x   add        Add file contents to the index
-   mv         Move or rename a file, a directory, or a symlink
+o   mv         Move or rename a file, a directory, or a symlink
    reset      Reset current HEAD to the specified state
 x   rm         Remove files from the working tree and from the index
 
